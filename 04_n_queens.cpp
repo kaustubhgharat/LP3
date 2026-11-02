@@ -1,5 +1,4 @@
-#include <iostream>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 
 // Check whether a queen can be placed at board[row][col]

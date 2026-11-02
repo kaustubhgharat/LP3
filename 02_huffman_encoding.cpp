@@ -1,8 +1,4 @@
 #include <bits/stdc++.h>
-#include <iostream>
-#include <queue>
-#include <vector>
-#include <string>
 using namespace std;
 
 
@@ -90,6 +86,10 @@ int main() {
 }
 
 /*
+a 50
+b 25
+c 15
+d 10
 Time Complexity: O(n log n), where n is the number of characters.
 Space Complexity: O(n), for the Huffman tree and priority queue.
 */

@@ -1,6 +1,4 @@
 #include <bits/stdc++.h>
-#include <cstdlib>
-#include <ctime>
 using namespace std;
 
 long long comparisons = 0;

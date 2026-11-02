@@ -1,6 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
@@ -57,6 +55,16 @@ int main() {
 }
 
 /*
+Enter number of items: 3
+
+Enter weights of items:
+10 20 30
+
+Enter profits of items:
+60 100 120
+
+Enter knapsack capacity: 50
+
 Time Complexity: O(n * capacity)
 Space Complexity: O(n * capacity)
 */
